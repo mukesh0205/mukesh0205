@@ -1,7 +1,7 @@
-[![MasterHead](https://www.google.com/search?q=github+master+head+gif&tbm=isch&usg=AI4_-kQpGV-zXttDzoYZcOJZLQfFPe5H6g#imgrc=D-n9kS11csGszM)]
-h1 align="center">Hi 👋, I'm Mukesh</h1>
+![MasterHead](https://camo.githubusercontent.com/365c25491be66980bf5399ec714ce98f8a66f7559e86620fa047fd076c77a828/68747470733a2f2f7669736d652e636f2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032302f30332f616e696d6174696f6e2d736f6674776172652d6865616465722d776964652e676966)
+<h1 align="center">Hi 👋, I'm Mukesh</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F73ac76_36cb87ec57494390b39bc6a10852a155~mv2.gif&tbnid=F239HfAt0vHJrM&vet=12ahUKEwivrof3kMT-AhVp_DgGHQrMBEAQMyg3egQIARB0..i&imgrefurl=https%3A%2F%2Fwww.youth-inventa.org%2Fyics-admitted-students&docid=KK668y7pFoarMM&w=1400&h=589&q=computer%20science%20gif">
+<img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/73ac76_36cb87ec57494390b39bc6a10852a155~mv2.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukesh0205&label=Profile%20views&color=0e75b6&style=flat" alt="mukesh0205" /> </p>
